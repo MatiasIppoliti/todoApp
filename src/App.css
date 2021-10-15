@@ -156,4 +156,15 @@
       border-radius: 4px 4px 4px 4px;
     }
   }
+
+  @media (max-width: 442px) {
+
+    h1 {
+      font-size: 22px;
+    }
+
+    .todo-input {
+      width: 90%;
+    }
+  }
   

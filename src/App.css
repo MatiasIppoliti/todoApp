@@ -148,7 +148,7 @@
 
   @media (max-width: 550px) {
     .todo-app {
-      width: 100%;
+      width: 90%;
     }
 
     .todo-button {
